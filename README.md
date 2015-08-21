@@ -15,4 +15,5 @@ Latest command will push binary via adb to /data/usr.
 3) measure execution time of program(see sources for details):
 
 `/data/usr/test 4 5`
+
 `logcat | grep bench`
